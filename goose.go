@@ -23,7 +23,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/tchajed/goose/internal/coq"
+	"github.com/RalfJung/goose/internal/coq"
 )
 
 type identInfo struct {
@@ -2176,6 +2176,7 @@ func stringLitValue(lit *ast.BasicLit) string {
 // TODO: the goose/machine/* imports ought to be part of the config.Excludes
 var builtinImports = map[string]bool{
 	"github.com/tchajed/goose/machine":         true,
+	"github.com/RalfJung/goose/machine":         true,
 	"github.com/tchajed/goose/machine/disk":    true,
 	"github.com/tchajed/goose/machine/filesys": true,
 	"sync": true,

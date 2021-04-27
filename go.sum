@@ -44,6 +44,7 @@ github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81P
 github.com/stretchr/testify v1.6.1 h1:hDPOHmpOpP40lSULcqw7IrRb/u7w6RpDC9399XyoNd0=
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/tchajed/goose v0.0.0-20191114201541-ebbf1d75c8ca/go.mod h1:2c33VcNcIHG8vQhprFmBlZxpC62+TfmnGjB+jVaKhXo=
+github.com/tchajed/goose v0.0.0-20200128225509-92a5cfe01fc4 h1:B4gNdohSVBNoCSiFmJa/EQ9poWeT/rQNCW70WPLcZCU=
 github.com/tchajed/goose v0.0.0-20200128225509-92a5cfe01fc4/go.mod h1:rhep/Jc/mYPoMIYG8dPtnc71UHAPHNYRx1qvpB245Ss=
 github.com/tchajed/mailboat v0.0.0-20191026015926-338a5b81ac1d h1:Wo+x9aw28lMYhZFiW68yIMm8e5sf1lfJSDH1w5GOQAM=
 github.com/tchajed/mailboat v0.0.0-20191026015926-338a5b81ac1d/go.mod h1:dmgNTEH0kreeKMWd+ntzsrp7ie2LWHGMe7VxP6d1Aew=

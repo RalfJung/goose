@@ -1,4 +1,4 @@
-module github.com/tchajed/goose
+module github.com/RalfJung/goose
 
 go 1.12
 
@@ -9,6 +9,7 @@ require (
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.6.1
+	github.com/tchajed/goose v0.0.0-20200128225509-92a5cfe01fc4
 	github.com/tchajed/marshal v0.0.0-20200707011626-0d2aa09818a9
 	golang.org/x/sys v0.0.0-20200817155316-9781c653f443
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect

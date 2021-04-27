@@ -8,8 +8,8 @@ import (
 
 	"github.com/fatih/color"
 
-	"github.com/tchajed/goose"
-	"github.com/tchajed/goose/internal/coq"
+	"github.com/RalfJung/goose"
+	"github.com/RalfJung/goose/internal/coq"
 )
 
 //noinspection GoUnhandledErrorResult

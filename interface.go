@@ -12,7 +12,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/tchajed/goose/internal/coq"
+	"github.com/RalfJung/goose/internal/coq"
 )
 
 // declsOrError translates one top-level declaration,
